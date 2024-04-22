@@ -5,4 +5,4 @@ Bookbot reads a txt file and gives the following information:
 
 -How many of each letter are present in the whole text
 
--And most used word
+-Most used word
